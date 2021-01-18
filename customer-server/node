@@ -1,0 +1,20 @@
+1.下载  zookeeper 注意下载的是bin 格式 不是src 格式
+        https://downloads.apache.org/zookeeper/zookeeper-3.6.2/apache-zookeeper-3.6.2-bin.tar.gz
+2.进入 bin 目录  启动
+
+3.下载  dubbo-admin
+        https://github.com/apache/dubbo/tree/2.5.x
+        注意要切换到 2.5.x 分支才有
+        进入 dubbo-admin-2.5.10/WEB-INF目录修改dubbo.properties文件：
+
+        注册中心地址（这里用的是zookeeper）
+        用户密码（注意：root用户的密码是root，guest用户的密码是guest）
+
+        启动
+        在dubbo-2.5.x目录执行 mvn clean package -Dmaven.test.skip=true ；
+        在 apache-tomcat-7.0.10/bin 下执行 sh catalina.sh run 启动Tomcat。
+
+        http://127.0.0.1:8082
+
+        3.运行项目  provider-server
+
