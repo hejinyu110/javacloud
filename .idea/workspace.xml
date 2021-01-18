@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60997beb-5e46-4c6c-b9f2-f44d51c30f3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\hejinyu\apache-maven-3.6.3\maven-repo" />
+        <option name="userSettingsFile" value="D:\hejinyu\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nGGhrUsuaEYneg6ITDMojLaNmM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29013255" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.he.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderServerApplication">
+    <configuration name="CustomerServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="customer-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.CustomerServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.ProviderServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CustomerServerApplication" />
+      <item itemvalue="Spring Boot.ProviderServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60997beb-5e46-4c6c-b9f2-f44d51c30f3e" name="Default Changelist" comment="" />
+      <created>1611009135117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611009135117</updated>
+      <workItem from="1611009137981" duration="2227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1611009141447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1611009141447" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611011167580">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1611011167580" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611009730273">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611009730273" />
+    <state width="1237" height="261" key="GridCell.Tab.0.bottom" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.0.center" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.0.left" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.0.right" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.1.bottom" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.1.center" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.1.left" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state width="1237" height="261" key="GridCell.Tab.1.right" timestamp="1611011261526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="261" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611011261526" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1611011403777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1611011403777" />
+    <state x="28" y="0" key="new project wizard" timestamp="1611009786449">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1611009786449" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1611010850400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1611010850400" />
+  </component>
+</project>
