@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60997beb-5e46-4c6c-b9f2-f44d51c30f3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customer-server/node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-server/src/main/java/com/he/service/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-server/src/main/java/com/he/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/provider-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/provider-server/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-server/src/test/java/com/he/CustomerServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-server/src/test/java/com/he/CustomerServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node" beforeDir="false" afterPath="$PROJECT_DIR$/node" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,6 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubbo/dubbo-admin" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29013255" />
@@ -62,8 +66,27 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.he.service" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\hejinyu\cloud1\" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ProviderServerApplication">
+  <component name="RunManager" selected="Spring Boot.CustomerServerApplication">
+    <configuration name="CustomerServerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.he" />
+      <option name="MAIN_CLASS_NAME" value="com.he.CustomerServerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomerServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="customer-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.CustomerServerApplication" />
@@ -81,7 +104,13 @@
     <list>
       <item itemvalue="Spring Boot.CustomerServerApplication" />
       <item itemvalue="Spring Boot.ProviderServerApplication" />
+      <item itemvalue="JUnit.CustomerServerApplicationTests.contextLoads" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerServerApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -93,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611009135117</updated>
-      <workItem from="1611009137981" duration="3417000" />
+      <workItem from="1611009137981" duration="7468000" />
     </task>
     <servers />
   </component>
@@ -101,6 +130,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1611184918095">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1611184918095" />
     <state x="233" y="0" key="#Project_Structure" timestamp="1611009141447">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -113,42 +146,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="395" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1611012381369" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611009730273">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1611098895157">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611009730273" />
-    <state width="1237" height="14" key="GridCell.Tab.0.bottom" timestamp="1611012112256">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611098895157" />
+    <state width="1237" height="248" key="GridCell.Tab.0.bottom" timestamp="1611185454876">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.0.center" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611185454876" />
+    <state width="1237" height="248" key="GridCell.Tab.0.center" timestamp="1611185454876">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.0.left" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611185454876" />
+    <state width="1237" height="248" key="GridCell.Tab.0.left" timestamp="1611185454875">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.0.right" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611185454875" />
+    <state width="1237" height="248" key="GridCell.Tab.0.right" timestamp="1611185454876">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.1.bottom" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611185454876" />
+    <state width="1237" height="248" key="GridCell.Tab.1.bottom" timestamp="1611185432324">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.1.center" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611185432324" />
+    <state width="1237" height="248" key="GridCell.Tab.1.center" timestamp="1611185432324">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.1.left" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611185432324" />
+    <state width="1237" height="248" key="GridCell.Tab.1.left" timestamp="1611185432324">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
-    <state width="1237" height="14" key="GridCell.Tab.1.right" timestamp="1611012112256">
+    <state width="1237" height="248" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611185432324" />
+    <state width="1237" height="248" key="GridCell.Tab.1.right" timestamp="1611185432324">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="14" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611012112256" />
+    <state width="1237" height="248" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611185432324" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1611011849437">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -157,9 +190,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1611009786449" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1611010850400">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1611184458891">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1611010850400" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1611184458891" />
   </component>
 </project>
