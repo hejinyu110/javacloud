@@ -12,7 +12,9 @@
         目录执行 mvn clean package -Dmaven.test.skip=true ；
         在 apache-tomcat-7.0.10/bin 下执行 sh catalina.sh run 启动Tomcat。
 
-        http://127.0.0.1:8082
+        //dubbo admin 的地址
+        http://127.0.0.1:7001
 
-        3.运行项目  provider-server
+        3.运行项目  provider-server 和 customer 地址
+
 
